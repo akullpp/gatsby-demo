@@ -1,0 +1,26 @@
+{
+  "name": "gatsby-demo",
+  "version": "1.0.0",
+  "description": "Demonstration of a simple Gatsby setup for a website",
+  "scripts": {
+    "build": "gatsby build",
+    "start": "gatsby develop"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akullpp/gatsby-demo.git"
+  },
+  "author": "Andreas Kull <akullpp@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akullpp/gatsby-demo/issues"
+  },
+  "homepage": "https://github.com/akullpp/gatsby-demo#readme",
+  "dependencies": {
+    "gatsby": "^2.1.19",
+    "gatsby-source-filesystem": "^2.0.23",
+    "gatsby-transformer-remark": "^2.3.0",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3"
+  }
+}
